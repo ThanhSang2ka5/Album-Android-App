@@ -1,0 +1,21 @@
+*.iml
+.gradle/
+.kotlin/
+.idea/
+local.properties
+.DS_Store
+/build/
+app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Local report & slide generator scripts/outputs
+*.pptx
+*.docx
+BaoCao_*.md
+generate_*.py
+screenshots/canva_assets/
+screenshots/flagship_slides/
+screenshots/framed/
+screenshots/simple_clean_bgs/

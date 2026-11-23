@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="photos" path="photos/" />
+    <files-path name="music" path="music/" />
+    <cache-path name="camera" path="camera/" />
+    <cache-path name="shared" path="shared/" />
+</paths>
